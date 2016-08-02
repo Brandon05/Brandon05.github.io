@@ -176,6 +176,11 @@ header .intro-text .skills {
   background-color: transparent;
 }
 
+.navbar-default .navbar-toggle:hover,
+.navbar-default .navbar-toggle:focus {
+  background-color: #9E9E9E;
+}
+
 section {
     padding: 100px 0;
 }
