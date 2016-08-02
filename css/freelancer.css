@@ -186,6 +186,10 @@ header .intro-text .skills {
   color: #9E9E9E;
 }
 
+.navbar-default .navbar-link:hover {
+  color: #9E9E9E;
+}
+
 section {
     padding: 100px 0;
 }
