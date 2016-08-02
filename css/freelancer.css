@@ -170,6 +170,12 @@ header .intro-text .skills {
     border: 0;
 }
 
+.navbar-default .navbar-brand:hover,
+.navbar-default .navbar-brand:focus {
+  color: #9E9E9E;
+  background-color: transparent;
+}
+
 section {
     padding: 100px 0;
 }
