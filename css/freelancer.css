@@ -192,14 +192,14 @@ header .intro-text .skills {
 
 .btn-link:hover,
 .btn-link:focus {
-  color: #18bc9c;
+  color: #9E9E9E;
   text-decoration: underline;
   background-color: transparent;
 }
 
 .navbar-default .navbar-nav > li > a:hover,
 .navbar-default .navbar-nav > li > a:focus {
-  color: #18bc9c;
+  color: #9E9E9E;
   background-color: transparent;
 }
 
