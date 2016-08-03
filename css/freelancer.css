@@ -207,7 +207,7 @@ header .intro-text .skills {
     background-color: transparent;
 }
 
-.navbar-brand:after:hover {
+.navbar-brand:hover:after {
   color: #9E9E9E;
   background-color: transparent;
 }
