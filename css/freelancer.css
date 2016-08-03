@@ -294,7 +294,14 @@ section.success {
 .btn-success.active {
   color: #11181f;
   background-color: #11181f;
-  border-color: #11181f;  
+  border-color: #11181f;
+  box-shadow: none;
+}
+
+.btn-success:active:focus {
+  color: #ffffff; 
+  background-color: #11181f; 
+  border-color: #11181f;
 }
 
 .btn-success:active {
