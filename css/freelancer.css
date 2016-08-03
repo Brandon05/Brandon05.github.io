@@ -204,6 +204,13 @@ header .intro-text .skills {
 .navbar-default .navbar-nav > li > a:focus {
   color: #9E9E9E;
   background-color: transparent;
+  content: "\f10c";
+    display: inline-block;
+    position: relative;
+    top: -.8em;
+    padding: 0 .25em;
+    font-family: FontAwesome;
+    font-size: 2em;
 }
 
 section {
