@@ -149,7 +149,7 @@ header .intro-text .skills {
 
 .navbar {
     text-transform: uppercase;
-    font-family: Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif,FontAwesome;
+    font-family: Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
     font-weight: 700;
 }
 
@@ -176,9 +176,11 @@ header .intro-text .skills {
   font-size: 19px;
   line-height: 21px;
   height: 60px;
-
+  text-align: center;
+  color: #fff;
+  background-color: transparent;
   content: "\f10c";
-    /*display: inline-block;*/
+  display: inline-block;
     /*position: relative;*/
     /*top: -.8em;*/
     /*padding: 0 .25em;*/
