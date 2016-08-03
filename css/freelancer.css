@@ -199,6 +199,10 @@ header .intro-text .skills {
     background-color: transparent;
 }
 .navbar-default .navbar-brand:hover {
+  content: "\f10c";
+  display: inline-block;
+  position: relative;
+  font-family: FontAwesome;
   color: #9E9E9E;
   background-color: transparent;
 }
