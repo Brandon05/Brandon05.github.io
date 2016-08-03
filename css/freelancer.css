@@ -291,6 +291,12 @@ section.success {
   border-color: #11181f;
 }
 
+.btn-success:toggle {
+  color: #ffffff;
+  background-color: #11181f;
+  border-color: #11181f;  
+}
+
 section.success a,
 section.success a:hover,
 section.success a:focus,
@@ -381,7 +387,7 @@ section.success a.active {
 .btn-outline:active,
 .btn-outline.active {
     border: solid 2px #fff;
-    color: #18bc9c;
+    color: #fff;
     background: #fff;
 }
 
