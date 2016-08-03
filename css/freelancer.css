@@ -190,7 +190,7 @@ header .intro-text .skills {
 }
 
 .navbar-brand:after {
-    content: "\f10c";
+    content: "\f076";
     display: inline-block;
     position: relative;
     /*top: -.8em;*/
