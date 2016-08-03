@@ -291,6 +291,18 @@ section.success {
   border-color: #11181f;
 }
 
+.btn-success:active {
+  color: #ffffff;
+  background-color: #11181f;
+  border-color: #11181f;  
+}
+
+.btn-success:focus {
+  color: #ffffff;
+  background-color: #11181f;
+  border-color: #11181f;
+}
+
 .btn-success:toggle {
   color: #ffffff;
   background-color: #11181f;
