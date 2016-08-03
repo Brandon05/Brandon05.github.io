@@ -178,7 +178,7 @@ header .intro-text .skills {
   height: 60px;
   text-align: center;
   color: #fff;
-  background-color: transparent;
+  background-color: #fff;
   content: "\f10c";
   display: inline-block;
     /*position: relative;*/
