@@ -189,6 +189,21 @@ header .intro-text .skills {
     /*font-size: 2em;*/
 }
 
+.navbar-brand:after {
+   content: "\f10c";
+  display: inline-block;
+  position: relative;
+  font-family: FontAwesome;
+  float: left;
+  padding: 19.5px 15px;
+  font-size: 19px;
+  line-height: 21px;
+  height: 60px;
+  text-align: center;
+  color: #fff;
+  background-color: transparent;  
+}
+
 .navbar-default .navbar-brand:focus {
     /*margin: 25px auto 30px;*/
     /*padding: 0;*/
