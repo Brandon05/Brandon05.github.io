@@ -197,12 +197,12 @@ header .intro-text .skills {
     padding: 0 .25em;
     font-family: FontAwesome;
     font-size: 2em;
-  float: left;
+  /*float: left;*/
   /*padding: 19.5px 15px;*/
   /*font-size: 19px;*/
-  line-height: 21px;
-  height: 60px;
-  text-align: center;
+  /*line-height: 21px;*/
+  /*height: 60px;*/
+  /*text-align: center;*/
     color: #fff;
     background-color: transparent;
 }
