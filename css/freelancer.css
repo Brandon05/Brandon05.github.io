@@ -177,6 +177,8 @@ header .intro-text .skills {
 .navbar-default .navbar-brand:hover {
   color: #9E9E9E;
   background-color: transparent;
+  content: "\f10c";
+    display: inline-block;
 }
 
 /*.navbar-default .navbar-toggle:hover,*/
