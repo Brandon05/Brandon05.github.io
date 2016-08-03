@@ -291,11 +291,16 @@ section.success {
   border-color: #11181f;
 }
 
-.btn-success:active,
 .btn-success.active {
   color: #11181f;
   background-color: #11181f;
   border-color: #11181f;  
+}
+
+.btn-success:active {
+  color: #11181f;
+  background-color: #11181f;
+  border-color: #11181f;   
 }
 
 .btn-success:active,
@@ -312,16 +317,16 @@ section.success {
   border-color: #11181f;
 }
 
-.btn-success:toggle {
-  color: #ffffff;
-  background-color: #11181f;
-  border-color: #11181f;  
-}
+/*.btn-success:toggle {*/
+/*  color: #ffffff;*/
+/*  background-color: #11181f;*/
+/*  border-color: #11181f;  */
+/*}*/
 
-.btn-success .badge {
-  color: #ffffff;
-  background-color: #11181f;
-}
+/*.btn-success .badge {*/
+/*  color: #ffffff;*/
+/*  background-color: #11181f;*/
+/*}*/
 
 section.success a,
 section.success a:hover,
