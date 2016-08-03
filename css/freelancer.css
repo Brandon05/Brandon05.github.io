@@ -182,9 +182,9 @@ header .intro-text .skills {
   content: "\f10c";
   display: inline-block;
   position: relative;
+  font-family: FontAwesome;
     /*top: -.8em;*/
     /*padding: 0 .25em;*/
-    /*font-family: FontAwesome;*/
     /*font-size: 2em;*/
 }
 
