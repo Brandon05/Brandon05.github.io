@@ -226,7 +226,7 @@ header .intro-text .skills {
 
 .navbar-default .navbar-nav > li > a:hover,
 .navbar-default .navbar-nav > li > a:focus {
-  color: #fff;
+  color: #9E9E9E;
   background-color: transparent;
   /*content: "\f10c";*/
     /*display: inline-block;*/
