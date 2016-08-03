@@ -171,6 +171,10 @@ header .intro-text .skills {
 }
 
 .navbar-brand {
+  content: "\f10c";
+  display: inline-block;
+  position: relative;
+  font-family: FontAwesome;
   float: left;
   padding: 19.5px 15px;
   font-size: 19px;
@@ -179,10 +183,7 @@ header .intro-text .skills {
   text-align: center;
   color: #fff;
   background-color: transparent;
-  content: "\f10c";
-  display: inline-block;
-  position: relative;
-  font-family: FontAwesome;
+  
     /*top: -.8em;*/
     /*padding: 0 .25em;*/
     /*font-size: 2em;*/
