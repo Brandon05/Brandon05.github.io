@@ -177,7 +177,7 @@ header .intro-text .skills {
     border: 0;
     border-top: solid 5px;
     text-align: center;
-    color: #fff;
+    color: #9E9E9E;
     background-color: transparent;
 }
 .navbar-default .navbar-brand:hover {
@@ -210,7 +210,7 @@ header .intro-text .skills {
 .navbar-default .navbar-nav > li > a:focus {
   color: #fff;
   background-color: transparent;
-  content: "\f10c";
+  /*content: "\f10c";*/
     /*display: inline-block;*/
     /*position: relative;*/
     /*top: -.8em;*/
