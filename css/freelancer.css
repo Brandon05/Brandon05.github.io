@@ -309,6 +309,11 @@ section.success {
   border-color: #11181f;  
 }
 
+.btn-success .badge {
+  color: #ffffff;
+  background-color: #11181f;
+}
+
 section.success a,
 section.success a:hover,
 section.success a:focus,
