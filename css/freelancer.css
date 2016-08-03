@@ -303,7 +303,7 @@ section.success {
 .open > .dropdown-toggle.btn-success {
   color: #ffffff;
   background-color: #11181f;
-  border-color: #11866f;
+  border-color: #11181f;
 }
 
 .btn-success:focus {
