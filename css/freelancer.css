@@ -507,6 +507,19 @@ footer .footer-below {
     background-color: #9E9E9E;
 }
 
+.col-md-4 {
+    width: 33.33333333%;
+  }
+  
+/*.col-md-5 {*/
+/*    float:;*/
+/*  }*/
+  
+ .col-md-5 {
+    width: 33.33333333%;
+    float: right;
+  }
+
 .btn-social {
     display: inline-block;
     width: 50px;
