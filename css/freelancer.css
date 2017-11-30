@@ -108,7 +108,7 @@ header .intro-text .skills {
     font-weight: 300;
 }
 
-header .intro-text .quote {
+header .quote {
     padding-top: 20px;
     font-size: 1.25em;
     font-family: Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
@@ -129,7 +129,7 @@ header .intro-text .quote {
         font-size: 1.75em;
     }
     
-    header .intro-text .quote {
+    header .quote {
         font-size: 1.75em;
     }
     
