@@ -22,7 +22,6 @@ chrome-user-data
 *.iml
 .vscode
 *.swp
-*.swo*.swo
 *.swo
 =======
 # See https://help.github.com/ignore-files/ for more about ignoring files.
