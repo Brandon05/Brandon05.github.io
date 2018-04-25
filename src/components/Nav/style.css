@@ -1,0 +1,34 @@
+/* Theme */
+nav {
+  background: #EDEDED;
+  color: #4B5658; }
+
+.menu {
+  margin-right: 1rem;
+  display: flex;
+  flex: 1;
+  justify-content: flex-end;
+  color: inherit;
+  text-decoration: inherit; }
+  .menu__item {
+    padding: 0.25rem 0;
+    margin: 0 1rem;
+    font-size: 1.25rem;
+    font-weight: 400;
+    border-bottom: 2px solid transparent; }
+    .menu__item a {
+      color: inherit;
+      text-decoration: inherit; }
+    .menu__item:hover {
+      cursor: pointer;
+      border-bottom: 2px solid #4B5658; }
+
+main {
+  background: #EDEDED;
+  color: #4B5658; }
+
+.icons-social a {
+  color: #4B5658; }
+
+.icons-social a svg path {
+  fill: #4B5658; }

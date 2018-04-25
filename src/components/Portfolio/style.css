@@ -1,0 +1,19 @@
+.portfolio-page {
+  padding-top: 2rem;
+  min-height: 100vh;
+  display: flex;
+  flex: 0 1 auto;
+  flex-direction: column;
+  justify-content: center;
+  background: #EDEDED;
+  color: #4B5658; }
+  .portfolio-page h1 {
+    padding: 1rem 0;
+    font-size: 3rem;
+    text-align: center; }
+  .portfolio-page .content-grid {
+    flex: auto; }
+  .portfolio-page .portfolio-wrapper {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center; }
