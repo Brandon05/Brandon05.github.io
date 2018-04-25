@@ -12,7 +12,7 @@ class App extends Component {
         <Nav />
         <main>
           <img style={{display: 'block', marginLeft: 'auto', marginRight: 'auto'}} src={logo} height='auto' width='200px'/>
-          <div class="intro">Hello, I'm Brandon!</div>
+          <div class="intro">Hi, I'm Brandon!</div>
       		<div class="tagline">
             Software Engineer
             <span style={{color: 'red'}}> | </span>
