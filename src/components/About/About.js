@@ -14,7 +14,6 @@ export default class About extends Component {
           <h1>About</h1>
           <div className="about-wrapper">
             <div className="about-content">
-              <p>This is the About page.</p>
               <p>Hackers solve problems and build things, and they believe in freedom and voluntary mutual help.</p>
               <p>Stay tuned, I will eventually write some witty banter that expresses who I am. Until then, enjoy the empty.</p>
             </div>
