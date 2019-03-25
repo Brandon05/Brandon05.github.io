@@ -14,7 +14,7 @@ export default class Portfolio extends Component {
     const upstreamCode = ""
     const upstreamVideo = ""
     const upstreamDesc = "Minimal iOS app that allows users to browse, search and \
-    save posts from <a href=https://uplabs.com>Uplabs</a>."
+    save posts from uplabs.com."
 
     const physicianTitle = "Physician's Choice"
     const physicianCode = ""
@@ -31,7 +31,8 @@ export default class Portfolio extends Component {
       <div className="content-grid">
         <h1>Portfolio</h1>
         <div className="portfolio-wrapper">
-          <PortfolioIupstreamTitle   itemTitle={upstreamTitle}
+          <PortfolioItem   
+            itemTitle={upstreamTitle}
             itemDesc={upstreamDesc}
             itemCode={upstreamCode}
             itemGif={upstreamVideo}

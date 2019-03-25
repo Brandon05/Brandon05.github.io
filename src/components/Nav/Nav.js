@@ -24,7 +24,7 @@ export default class Nav extends Component {
       <nav className="nav">
         <div className="menu" >
           <div className="menu__item">
-            <a target="_blank" href="https://drive.google.com/file/d/17kF9-onJmrs4Gyp3ko5RGdKObIwB5VBT/view?usp=sharing">
+            <a target="_blank" href="https://drive.google.com/open?id=1M6MsdqrhEbyuSn0maUVT9EMduPpu8uoZ">
             Resume
             </a>
           </div>
