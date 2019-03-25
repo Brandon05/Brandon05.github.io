@@ -10,17 +10,16 @@ export default class Portfolio extends Component {
   }
 
   render() {
-    const kickswapTitle = "Upstream"
-    const kickswapLogo = swiftLogo
-    const kickswapCode = ""
-    const kickswapGif = ""
-    const kickswapDesc = "Minimal iOS app that allows users to browse, search and \
+    const upstreamTitle = "Upstream"
+    const upstreamCode = ""
+    const upstreamVideo = ""
+    const upstreamDesc = "Minimal iOS app that allows users to browse, search and \
     save posts from <a href=https://uplabs.com>Uplabs</a>."
 
-    const movietimeTitle = "Physician's Choice Weight Loss"
-    const movietimeCode = ""
-    const movietimeGif = ""
-    const movietimeDesc = "A proprietary iOS app to help users track their food choices, built for www.pcweightloss.com "
+    const physicianTitle = "Physician's Choice"
+    const physicianCode = ""
+    const physicianGif = "https://vimeo.com/326323908"
+    const physicianDesc = "A proprietary iOS app to help users track their food choices, built for www.pcweightloss.com "
 
     const addressbookTitle = "Address Book"
     const addressbookCode = "https://github.com/Brandon05/Address-Book-"
@@ -32,18 +31,17 @@ export default class Portfolio extends Component {
       <div className="content-grid">
         <h1>Portfolio</h1>
         <div className="portfolio-wrapper">
-          <PortfolioItem
-            itemTitle={kickswapTitle}
-            itemDesc={kickswapDesc}
-            itemCode={kickswapCode}
-            itemGif={kickswapGif}
+          <PortfolioIupstreamTitle   itemTitle={upstreamTitle}
+            itemDesc={upstreamDesc}
+            itemCode={upstreamCode}
+            itemGif={upstreamVideo}
             itemLogo={swiftLogo}
           />
           <PortfolioItem
-            itemTitle={movietimeTitle}
-            itemDesc={movietimeDesc}
-            itemCode={movietimeCode}
-            itemGif={movietimeGif}
+            itemTitle={physicianTitle}
+            itemDesc={physicianDesc}
+            itemCode={physicianCode}
+            itemGif={physicianGif}
             itemLogo={swiftLogo}
           />
           <PortfolioItem
