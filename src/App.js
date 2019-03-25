@@ -18,7 +18,7 @@ class App extends Component {
             <span style={{color: 'red'}}> | </span>
              Philosopher
             <span style={{color: 'red'}}> | </span>
-             Perpetual Learner
+             Lifelong Learner
           </div>
           <div class='icons-social'>
             <a target="_blank" href="https://github.com/Brandon05"><i class="fab fa-github"></i></a>
