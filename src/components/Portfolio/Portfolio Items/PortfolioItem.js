@@ -20,8 +20,8 @@ export default class PortfolioItem extends Component {
           <img src={this.props.itemLogo} />
         </div>
         <div className="portfolio-item__links">
-          <a target="_blank" href={this.props.itemCode}>Code</a>
-          <a target="_blank" href={this.props.itemGif}>Gif</a>
+          <a target="_blank" href={this.props.itemCode}><i class="fa fa-code"></i> Code</a>
+          <a target="_blank" href={this.props.itemGif}><i class="fa fa-play fa-fw"></i> Gif</a>
         </div>
       </div>
     )

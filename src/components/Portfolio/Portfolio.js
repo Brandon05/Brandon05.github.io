@@ -10,19 +10,17 @@ export default class Portfolio extends Component {
   }
 
   render() {
-    const kickswapTitle = "Kickswap"
+    const kickswapTitle = "Upstream"
     const kickswapLogo = swiftLogo
-    const kickswapCode = "https://github.com/KickSwap/Bred1s-iOS"
-    const kickswapGif = "https://github.com/KickSwap/Bred1s-iOS/blob/master/kickswap_sprint3.gif"
-    const kickswapDesc = "Personal project built for sneaker enthusiasts. \
-    We attempted to build a platform to facilitate user curated \
-    sneaker values and to eventually allow the trading, purchasing and \
-    selling of sneakers peer to peer."
+    const kickswapCode = ""
+    const kickswapGif = ""
+    const kickswapDesc = "Minimal iOS app that allows users to browse, search and \
+    save posts from <a href=https://uplabs.com>Uplabs</a>."
 
-    const movietimeTitle = "Movie Time"
-    const movietimeCode = "https://github.com/Brandon05/MovieTime"
-    const movietimeGif = "https://imgur.com/w9d62ko"
-    const movietimeDesc = "Movie Time is a movies app using the The Movie Database API."
+    const movietimeTitle = "Physician's Choice Weight Loss"
+    const movietimeCode = ""
+    const movietimeGif = ""
+    const movietimeDesc = "A proprietary iOS app to help users track their food choices, built for www.pcweightloss.com "
 
     const addressbookTitle = "Address Book"
     const addressbookCode = "https://github.com/Brandon05/Address-Book-"
